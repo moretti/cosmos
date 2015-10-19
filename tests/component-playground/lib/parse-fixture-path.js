@@ -15,4 +15,4 @@ describe('Parse fixture path', function() {
     expect(parts[1]).to.equal('component-group/my-component');
     expect(parts[2]).to.equal('my-state');
   });
-})
+});

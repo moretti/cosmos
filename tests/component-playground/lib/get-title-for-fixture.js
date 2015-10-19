@@ -19,4 +19,4 @@ describe('Get title for fixture', function() {
     expect(title)
           .to.equal('FooComponent:bar-fixture – React Component Playground');
   });
-})
+});
